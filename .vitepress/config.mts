@@ -4,6 +4,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Johannes Plunien",
   description: "My personal web site",
+  base: "/",
+  head: [["link", { rel: "canonical", href: "https://johannes.plunien.com" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],

@@ -60,6 +60,9 @@ typings/
 # next.js build output
 .next
 
-# Vitepress
+# VitePress
 .vitepress/cache
+
+# Visual Studio Code
+.vscode/
 .vitepress/dist

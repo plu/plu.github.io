@@ -1,0 +1,61 @@
+/* Project section layout */
+.project-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 3rem;
+  padding: 1.5rem 0;
+}
+
+/* App icon styling */
+.app-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+  display: block;
+}
+
+/* Project content styling */
+.project-content {
+  flex: 1;
+  line-height: 1.7;
+  margin-top: 2px;
+}
+
+/* Add spacing between project sections */
+.project-section:not(:last-child) {
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 2.5rem;
+}
+
+/* Responsive sizing for smaller screens */
+@media (max-width: 768px) {
+  .project-section {
+    gap: 16px;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+  }
+
+  .app-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+  }
+
+  .project-section:not(:last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+
+/* Hero image circular styling */
+.VPHero .VPImage {
+  max-width: 33.33%;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.VPHero .VPImage img {
+  border-radius: 50%;
+}

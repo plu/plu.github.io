@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
     socialLinks: [
-      { icon: "github", link: "https://github.com/plu/plu.github.io" },
+      { icon: "github", link: "https://github.com/plu" },
       {
         icon: "linkedin",
         link: "https://www.linkedin.com/in/jplunien/",

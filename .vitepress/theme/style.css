@@ -26,7 +26,6 @@
 
 /* Add spacing between project sections */
 .project-section:not(:last-child) {
-  border-bottom: 1px solid var(--vp-c-divider);
   padding-bottom: 2.5rem;
 }
 

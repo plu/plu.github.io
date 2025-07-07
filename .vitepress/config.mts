@@ -5,7 +5,17 @@ export default defineConfig({
   title: "Johannes Plunien",
   description: "My personal web site",
   base: "/",
-  head: [["link", { rel: "canonical", href: "https://johannes.plunien.com" }]],
+  head: [
+    ["link", { rel: "canonical", href: "https://johannes.plunien.com" }],
+    [
+      "script",
+      {
+        defer: "defer",
+        "data-domain": "johannes.plunien.com",
+        src: "https://plausible.plunien.com/js/script.js",
+      },
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],

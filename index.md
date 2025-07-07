@@ -29,7 +29,7 @@ features:
 
 I'm a software engineer with over 20+ years of experience, currently working at **Kleinanzeigen** (formerly eBay Kleinanzeigen) where I help build and maintain Germany's most popular classifieds platform.
 
-My journey in software development has taken me from backend systems to mobile applications, with a recent focus on iOS development. I've been working remotely for more than 9+ years, long before it became mainstream.
+My journey in software development has taken me from backend systems to mobile applications, with a recent focus on iOS development. I've been working remotely for more than 9 years, long before it became mainstream.
 
 ## Current Work
 

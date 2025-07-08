@@ -7,7 +7,7 @@ hero:
   text: "Software Engineer"
   tagline: "20+ years of experience building mobile and web applications"
   image:
-    src: /assets/me.png
+    src: /assets/me.webp
     alt: Johannes Plunien
 
 features:

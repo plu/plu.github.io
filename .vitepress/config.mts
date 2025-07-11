@@ -7,6 +7,7 @@ export default defineConfig({
   base: "/",
   head: [
     ["link", { rel: "canonical", href: "https://johannes.plunien.com" }],
+    ["meta", { name: "google-site-verification", content: "8kfvM1gjxXLltasQ-2KWlncjPLP4xvyCVUyeU79OKDA" }],
     [
       "script",
       {

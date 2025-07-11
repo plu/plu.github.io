@@ -2,9 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Johannes Plunien",
-  description: "My personal web site",
   base: "/",
+  description: "My personal web site",
   head: [
     ["link", { rel: "canonical", href: "https://johannes.plunien.com" }],
     ["meta", { name: "google-site-verification", content: "8kfvM1gjxXLltasQ-2KWlncjPLP4xvyCVUyeU79OKDA" }],
@@ -17,6 +16,9 @@ export default defineConfig({
       },
     ],
   ],
+  sitemap: {
+    hostname: "https://johannes.plunien.com"
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
@@ -28,4 +30,5 @@ export default defineConfig({
       },
     ],
   },
+  title: "Johannes Plunien",
 });

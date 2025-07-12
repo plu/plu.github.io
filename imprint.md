@@ -1,6 +1,7 @@
 ---
-title: Imprint
+aside: false
 description: Legal information and contact details
+title: Imprint
 ---
 
 # Imprint

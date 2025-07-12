@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # Privacy Policy for Less Paper
 
 The App Less Paper is developed and owned by Johannes Plunien. None of your personal data is shared with any third party, neither with me, at any time. I'm only collecting anonymous usage data to improve the app.

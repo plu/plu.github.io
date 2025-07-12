@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # Datenschutzrichtlinie für Less Paper
 
 Die App Less Paper gehört Johannes Plunien und wird von ihm entwickelt. Deine persönlichen Daten werden weder mit einem Drittanbieter noch mit mir jemals geteilt. Es werden anonymisierte Daten gesammelt um die App zu verbessern.

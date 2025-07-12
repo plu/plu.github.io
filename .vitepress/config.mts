@@ -6,7 +6,13 @@ export default defineConfig({
   description: "My personal web site",
   head: [
     ["link", { rel: "canonical", href: "https://johannes.plunien.com" }],
-    ["meta", { name: "google-site-verification", content: "8kfvM1gjxXLltasQ-2KWlncjPLP4xvyCVUyeU79OKDA" }],
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "8kfvM1gjxXLltasQ-2KWlncjPLP4xvyCVUyeU79OKDA",
+      },
+    ],
     [
       "script",
       {
@@ -17,11 +23,14 @@ export default defineConfig({
     ],
   ],
   sitemap: {
-    hostname: "https://johannes.plunien.com"
+    hostname: "https://johannes.plunien.com",
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Imprint", link: "/imprint" },
+    ],
     socialLinks: [
       { icon: "github", link: "https://github.com/plu" },
       {

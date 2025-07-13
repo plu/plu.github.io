@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
+  cleanUrls: true,
   description: "My personal web site",
   head: [
     ["link", { rel: "canonical", href: "https://johannes.plunien.com" }],

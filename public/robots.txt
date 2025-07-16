@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /imprint
 Sitemap: https://johannes.plunien.com/sitemap.xml

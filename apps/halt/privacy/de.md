@@ -12,8 +12,9 @@ personenbezogenen Daten.
 - Kein Konto, keine Anmeldung.
 - Keine Analyse, kein Tracking, keine Werbung.
 - Keine Dienste von Drittanbietern.
-- Deine Einstellungen (Tempo, Durchgänge pro Satz, Farbschema, Punktgröße) werden nur auf deinem
-  Gerät gespeichert und verlassen es nie.
+- Deine Einstellungen (Tempo, Durchgänge pro Satz, Farbschema, Punktgröße) werden auf deinem Gerät
+  gespeichert und, falls du welche anlegst, in deinen eigenen Gerätebackups. Sie werden nie an mich
+  oder andere gesendet.
 
 ## Änderungen dieser Datenschutzerklärung
 

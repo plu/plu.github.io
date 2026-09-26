@@ -12,8 +12,8 @@ personal data.
 - No account, no sign-in.
 - No analytics, tracking or advertising.
 - No third-party services.
-- Your settings (speed, passes per set, theme, dot size) are stored only on your device and never
-  leave it.
+- Your settings (speed, passes per set, theme, dot size) are stored on your device, and in your own
+  device backups if you make them. They are never sent to me or anyone else.
 
 ## Changes to This Privacy Policy
 
